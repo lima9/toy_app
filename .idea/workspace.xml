@@ -2,512 +2,83 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e65532fa-a1e6-46ed-8a9f-468310e39071" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.ICEauthority" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.WebStorm11/config/port.lock" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.WebStorm11/system/port.lock" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.Xauthority" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.cache/gstreamer-1.0/registry.x86_64.bin" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Certificate Revocation Lists" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Cookies-journal" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Extension State/LOCK" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Extension State/MANIFEST-000001" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Favicons" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Favicons-journal" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/History" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/IndexedDB/https_www.google.es_0.indexeddb.leveldb/LOCK" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/IndexedDB/https_www.google.es_0.indexeddb.leveldb/MANIFEST-000001" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Local Extension Settings/pafkbggdmjlpgkdkcbjmhmfcdpncadgh/LOCK" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Local Extension Settings/pafkbggdmjlpgkdkcbjmhmfcdpncadgh/MANIFEST-000001" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Local Storage/chrome-extension_pafkbggdmjlpgkdkcbjmhmfcdpncadgh_0.localstorage" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Local Storage/chrome-extension_pafkbggdmjlpgkdkcbjmhmfcdpncadgh_0.localstorage-journal" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Local Storage/http_cwbuecheler.com_0.localstorage-journal" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Local Storage/http_disqus.com_0.localstorage-journal" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Local Storage/http_disqusads.com_0.localstorage-journal" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Local Storage/http_slides.com_0.localstorage-journal" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Local Storage/http_stackoverflow.com_0.localstorage-journal" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Local Storage/https_c.betrad.com_0.localstorage-journal" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Local Storage/https_chrome.google.com_0.localstorage-journal" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Local Storage/https_www.facebook.com_0.localstorage-journal" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Local Storage/https_www.youtube.com_0.localstorage-journal" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Origin Bound Certs" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/QuotaManager" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/QuotaManager-journal" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Service Worker/Database/LOCK" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Service Worker/Database/MANIFEST-000001" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Service Worker/ScriptCache/index" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Service Worker/ScriptCache/index-dir/the-real-index" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Web Data" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/data_reduction_proxy_leveldb/LOCK" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/data_reduction_proxy_leveldb/MANIFEST-000001" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/databases/Databases.db" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Dictionaries/en-US-6-1.bdic" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/First Run" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Safe Browsing Bloom" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Safe Browsing Bloom Prefix Set" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Safe Browsing Cookies" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Safe Browsing Cookies-journal" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Safe Browsing Csd Whitelist" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Safe Browsing Download" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Safe Browsing Download Whitelist" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Safe Browsing Extension Blacklist" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Safe Browsing IP Blacklist" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Safe Browsing Inclusion Whitelist" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Safe Browsing UwS List" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Safe Browsing UwS List Prefix Set" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/ShaderCache/GPUCache/data_0" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/ShaderCache/GPUCache/data_1" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/ShaderCache/GPUCache/data_2" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/ShaderCache/GPUCache/data_3" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/ShaderCache/GPUCache/index" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/menus/applications-merged/xdg-desktop-menu-dummy.menu" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/pulse/2f64cd3cdf2b874c981ef8e556745146-card-database.tdb" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/pulse/2f64cd3cdf2b874c981ef8e556745146-device-volumes.tdb" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/pulse/2f64cd3cdf2b874c981ef8e556745146-stream-volumes.tdb" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/pulse/cookie" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.history" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.java/.userPrefs/.user.lock.ns" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.java/.userPrefs/.userRootModFile.ns" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.local/share/gvfs-metadata/home" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/zdky6zmi.default/.parentlock" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/zdky6zmi.default/cert8.db" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/zdky6zmi.default/content-prefs.sqlite" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/zdky6zmi.default/cookies.sqlite" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/zdky6zmi.default/crashes/store.json.mozlz4" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/zdky6zmi.default/formhistory.sqlite" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/zdky6zmi.default/healthreport.sqlite" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/zdky6zmi.default/key3.db" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/zdky6zmi.default/permissions.sqlite" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/zdky6zmi.default/places.sqlite" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/zdky6zmi.default/secmod.db" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/zdky6zmi.default/storage/permanent/chrome/.metadata" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/zdky6zmi.default/storage/permanent/chrome/idb/2918063365piupsah.sqlite" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/zdky6zmi.default/webappsstore.sqlite" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/acorn/1.2.2/package.tgz" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/align-text/0.1.4/package.tgz" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/amdefine/1.0.0/package.tgz" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/array-flatten/1.1.1/package.tgz" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/async/0.2.10/package.tgz" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/camelcase/1.2.1/package.tgz" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/center-align/0.1.3/package.tgz" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/cliui/2.1.0/package.tgz" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/content-disposition/0.5.1/package.tgz" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/cookie-signature/1.0.6/package.tgz" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/debug/2.2.0/package.tgz" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/depd/1.1.0/package.tgz" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/destroy/1.0.4/package.tgz" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/ee-first/1.1.1/package.tgz" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/escape-html/1.0.3/package.tgz" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/etag/1.7.0/package.tgz" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/forwarded/0.1.0/package.tgz" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/fresh/0.3.0/package.tgz" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/iconv-lite/0.4.13/package.tgz" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/inherits/2.0.1/package.tgz" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/longest/1.0.1/package.tgz" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/media-typer/0.3.0/package.tgz" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/merge-descriptors/1.0.1/package.tgz" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/methods/1.1.2/package.tgz" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/mime/1.3.4/package.tgz" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/minimist/0.0.8/package.tgz" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/mkdirp/0.5.1/package.tgz" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/ms/0.7.1/package.tgz" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/on-finished/2.3.0/package.tgz" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/on-headers/1.0.1/package.tgz" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/parseurl/1.3.1/package.tgz" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/path-to-regexp/0.1.7/package.tgz" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/right-align/0.1.3/package.tgz" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/serve-favicon/2.3.0/package.tgz" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/source-map/0.4.4/package.tgz" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/uglify-to-browserify/1.0.2/package.tgz" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/unpipe/1.0.0/package.tgz" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/utils-merge/1.0.0/package.tgz" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/window-size/0.1.0/package.tgz" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/wordwrap/0.0.2/package.tgz" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/wordwrap/0.0.3/package.tgz" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/yargs/3.10.0/package.tgz" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.pki/nssdb/cert9.db" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.pki/nssdb/key4.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/channels/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/concerns/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/concerns/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/assets/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/tasks/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/log/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/apple-touch-icon-precomposed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/apple-touch-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/controllers/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/fixtures/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/fixtures/files/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/helpers/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/integration/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/mailers/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/models/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/javascripts/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/.keep" />
-      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/runner.layout.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.WebStorm11/system/log/idea.log" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.bash_history" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.bash_logout" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.bashrc" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/Thunar/accels.scm" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/Thunar/uca.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Channels" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Bookmarks" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Extension State/000003.log" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Extension State/CURRENT" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Extension State/LOG" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Extension State/LOG.old" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/IndexedDB/https_www.google.es_0.indexeddb.leveldb/000003.log" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/IndexedDB/https_www.google.es_0.indexeddb.leveldb/CURRENT" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/IndexedDB/https_www.google.es_0.indexeddb.leveldb/LOG" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/IndexedDB/https_www.google.es_0.indexeddb.leveldb/LOG.old" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Local Extension Settings/pafkbggdmjlpgkdkcbjmhmfcdpncadgh/000003.log" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Local Extension Settings/pafkbggdmjlpgkdkcbjmhmfcdpncadgh/CURRENT" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Local Extension Settings/pafkbggdmjlpgkdkcbjmhmfcdpncadgh/LOG" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Network Persistent State" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Preferences" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/README" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Secure Preferences" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Service Worker/CacheStorage/63afbc5f01a8adb72f77c7797a97824ba4adf66b/index.txt" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Service Worker/Database/000003.log" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Service Worker/Database/CURRENT" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Service Worker/Database/LOG" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/Service Worker/Database/LOG.old" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/TransportSecurity" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/data_reduction_proxy_leveldb/000003.log" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/data_reduction_proxy_leveldb/CURRENT" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/data_reduction_proxy_leveldb/LOG" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Default/data_reduction_proxy_leveldb/LOG.old" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/chromium/Local State" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/gtk-2.0/gtkfilechooser.ini" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/pulse/2f64cd3cdf2b874c981ef8e556745146-default-sink" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/pulse/2f64cd3cdf2b874c981ef8e556745146-default-source" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/user-dirs.dirs" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/user-dirs.locale" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/xfce4/desktop/icons.screen0-1008x721.rc" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/xfce4/desktop/icons.screen0-1008x723.rc" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/xfce4/desktop/icons.screen0-1264x885.rc" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/xfce4/desktop/icons.screen0-1264x928.rc" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/xfce4/desktop/icons.screen0-1264x934.rc" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/xfce4/desktop/icons.screen0-1904x975.rc" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/xfce4/desktop/icons.screen0-624x384.rc" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/xfce4/panel/launcher-2/14558924252.desktop" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/xfce4/panel/launcher-8/14558924353.desktop" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/xfce4/panel/launcher-9/14558924444.desktop" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/xfce4/panel/whiskermenu-16.rc" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/xfce4/xfconf/xfce-perchannel-xml/keyboards.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/xfce4/xfconf/xfce-perchannel-xml/thunar.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-desktop.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-panel.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-session.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-settings-manager.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/xfce4/xfconf/xfce-perchannel-xml/xfwm4.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.config/xfce4/xfconf/xfce-perchannel-xml/xsettings.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.dbus/session-bus/2f64cd3cdf2b874c981ef8e556745146-0" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.dmrc" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gnome/apps/jetbrains-webstorm.desktop" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.java/.userPrefs/prefs.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.java/fonts/1.7.0_91/fcinfo-1-ubuntu-Ubuntu-14.04-en.properties" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.java/fonts/1.7.0_95/fcinfo-1-ubuntu-Ubuntu-14.04-en.properties" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.local/share/applications/jetbrains-webstorm.desktop" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.local/share/recently-used.xbel" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/profiles.ini" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/zdky6zmi.default/SiteSecurityServiceState.txt" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/zdky6zmi.default/addons.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/zdky6zmi.default/blocklist.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/zdky6zmi.default/compatibility.ini" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/zdky6zmi.default/datareporting/aborted-session-ping" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/zdky6zmi.default/datareporting/session-state.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/zdky6zmi.default/datareporting/state.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/zdky6zmi.default/extensions.ini" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/zdky6zmi.default/extensions.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/zdky6zmi.default/mimeTypes.rdf" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/zdky6zmi.default/pluginreg.dat" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/zdky6zmi.default/prefs.js" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/zdky6zmi.default/revocations.txt" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/zdky6zmi.default/saved-telemetry-pings/1f34473f-b373-4425-9830-cb28f9de048e" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/zdky6zmi.default/saved-telemetry-pings/bf668f70-b612-4ac0-88ea-744775c91a60" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/zdky6zmi.default/search-metadata.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/zdky6zmi.default/search.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/zdky6zmi.default/sessionCheckpoints.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/zdky6zmi.default/times.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/zdky6zmi.default/webapps/webapps.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.mozilla/firefox/zdky6zmi.default/xulstore.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/acorn/1.2.2/package/package.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/align-text/0.1.4/package/package.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/amdefine/1.0.0/package/package.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/array-flatten/1.1.1/package/package.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/async/0.2.10/package/package.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/camelcase/1.2.1/package/package.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/center-align/0.1.3/package/package.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/cliui/2.1.0/package/package.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/content-disposition/0.5.1/package/package.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/cookie-signature/1.0.6/package/package.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/debug/2.2.0/package/package.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/depd/1.1.0/package/package.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/destroy/1.0.4/package/package.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/ee-first/1.1.1/package/package.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/escape-html/1.0.3/package/package.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/etag/1.7.0/package/package.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/forwarded/0.1.0/package/package.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/fresh/0.3.0/package/package.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/iconv-lite/0.4.13/package/package.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/inherits/2.0.1/package/package.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/longest/1.0.1/package/package.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/media-typer/0.3.0/package/package.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/merge-descriptors/1.0.1/package/package.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/methods/1.1.2/package/package.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/mime/1.3.4/package/package.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/minimist/0.0.8/package/package.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/mkdirp/0.5.1/package/package.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/ms/0.7.1/package/package.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/on-finished/2.3.0/package/package.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/on-headers/1.0.1/package/package.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/parseurl/1.3.1/package/package.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/path-to-regexp/0.1.7/package/package.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/accepts/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/acorn/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/align-text/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/amdefine/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/array-flatten/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/asap/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/async/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/basic-auth/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/body-parser/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/bytes/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/camelcase/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/center-align/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/cliui/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/content-disposition/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/content-type/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/cookie-parser/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/cookie-signature/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/cookie/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/debug/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/decamelize/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/depd/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/destroy/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/ee-first/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/escape-html/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/etag/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/express/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/finalhandler/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/forwarded/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/fresh/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/glob/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/http-errors/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/iconv-lite/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/inherits/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/ipaddr.js/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/is-buffer/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/kind-of/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/lazy-cache/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/longest/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/media-typer/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/merge-descriptors/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/methods/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/mime-db/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/mime-types/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/mime/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/minimatch/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/minimist/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/mkdirp/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/morgan/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/ms/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/negotiator/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/on-finished/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/on-headers/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/optimist/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/parseurl/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/path-to-regexp/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/promise/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/proxy-addr/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/qs/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/range-parser/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/raw-body/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/repeat-string/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/right-align/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/send/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/serve-favicon/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/serve-static/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/source-map/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/statuses/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/type-is/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/uglify-js/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/uglify-to-browserify/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/unpipe/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/utils-merge/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/vary/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/window-size/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/wordwrap/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/registry.npmjs.org/yargs/.cache.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/right-align/0.1.3/package/package.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/serve-favicon/2.3.0/package/package.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/source-map/0.4.4/package/package.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/uglify-to-browserify/1.0.2/package/package.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/unpipe/1.0.0/package/package.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/utils-merge/1.0.0/package/package.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/window-size/0.1.0/package/package.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/wordwrap/0.0.2/package/package.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/wordwrap/0.0.3/package/package.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.npm/yargs/3.10.0/package/package.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.pki/nssdb/pkcs11.txt" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.profile" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.vboxclient-clipboard.pid" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.vboxclient-display.pid" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.vboxclient-draganddrop.pid" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.vboxclient-seamless.pid" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/Forms/.idea/Forms.iml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/Forms/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/Forms/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/Forms/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/Forms/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/SenBigInteger/views/form.jade" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/cities2/.idea/cities2.iml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/cities2/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/cities2/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/cities2/.idea/libraries/cities2_node_modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/cities2/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/cities2/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/cities2/.idea/runConfigurations/bin_www.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/cities2/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/cities2/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/start/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/start/.idea/runConfigurations/bin_www.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/start/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.generators" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.rakeTasks" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/toy_app.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gemfile.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Rakefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/config/manifest.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/application.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/cable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/channels/application_cable/channel.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/channels/application_cable/connection.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/helpers/application_helper.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jobs/application_job.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/mailers/application_mailer.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/application_record.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/layouts/mailer.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/layouts/mailer.text.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bundle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/rails" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/rake" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/setup" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/spring" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/update" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config.ru" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/application.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/boot.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/cable.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/database.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/environment.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/environments/development.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/environments/production.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/environments/test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/application_controller_renderer.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/assets.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/backtrace_silencers.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/cookies_serializer.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/filter_parameter_logging.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/inflections.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/mime_types.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/new_framework_defaults.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/session_store.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/wrap_parameters.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/locales/en.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/puma.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/secrets.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/spring.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/seeds.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/404.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/422.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/500.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/robots.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/test_helper.rb" />
-      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/organitzaciocodi.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/HTMLFooter.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/HTMLMenu.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/HTMLMenuOLD.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/HTMLMenuUserLogged.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/HTMLMenuUserUnlogged.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/alerta.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/casal.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/crearevent.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/css/3-col-portfolio.css" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/css/ORIGINALbootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/css/bootstrap-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/css/bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/css/form-elements.css" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/css/login.css" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/css/mPrompt.css" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/css/portfolio-item.css" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/css/small-business.css" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/css/toastr.css" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/csspropios/estil.css" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/editaruser.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/estadistiques.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/event.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/images/Can Vies.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/images/backgroundSignin.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/images/backgroundSignin1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/images/backgroundSignin2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/images/backgroundSignin3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/images/uploadImageIcon.png" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/imatgestemp/fotocasal1.png" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/js/Sortable.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/js/context.js" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/js/d3.js" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/js/extract.js" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/js/jquery.cookie.js" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/js/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/js/mPrompt.js" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/js/masonry.pkgd.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/js/npm.js" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/js/pwstrength.js" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/js/shortcut.js" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/js/toastr.js" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/jspropios/functions.js" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/jspropios/functionsRestful.js" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/llistacasals.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/llistaevents.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/login.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/logout.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/plantilla-pag-buida.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Downloads/web-master/www/signin.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/okupainfodb-schema.sql" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/okupainfodb-user.sql" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/images/.keep" afterPath="$PROJECT_DIR$/app/assets/images/.keep" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/javascripts/channels/.keep" afterPath="$PROJECT_DIR$/app/assets/javascripts/channels/.keep" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/concerns/.keep" afterPath="$PROJECT_DIR$/app/controllers/concerns/.keep" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/concerns/.keep" afterPath="$PROJECT_DIR$/app/models/concerns/.keep" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/assets/.keep" afterPath="$PROJECT_DIR$/lib/assets/.keep" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/tasks/.keep" afterPath="$PROJECT_DIR$/lib/tasks/.keep" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/log/.keep" afterPath="$PROJECT_DIR$/log/.keep" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/apple-touch-icon-precomposed.png" afterPath="$PROJECT_DIR$/public/apple-touch-icon-precomposed.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/apple-touch-icon.png" afterPath="$PROJECT_DIR$/public/apple-touch-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/favicon.ico" afterPath="$PROJECT_DIR$/public/favicon.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/controllers/.keep" afterPath="$PROJECT_DIR$/test/controllers/.keep" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/fixtures/.keep" afterPath="$PROJECT_DIR$/test/fixtures/.keep" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/fixtures/files/.keep" afterPath="$PROJECT_DIR$/test/fixtures/files/.keep" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/helpers/.keep" afterPath="$PROJECT_DIR$/test/helpers/.keep" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/integration/.keep" afterPath="$PROJECT_DIR$/test/integration/.keep" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/mailers/.keep" afterPath="$PROJECT_DIR$/test/mailers/.keep" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/models/.keep" afterPath="$PROJECT_DIR$/test/models/.keep" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/.keep" afterPath="$PROJECT_DIR$/tmp/.keep" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/assets/javascripts/.keep" afterPath="$PROJECT_DIR$/vendor/assets/javascripts/.keep" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/assets/stylesheets/.keep" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/.keep" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.generators" afterPath="$PROJECT_DIR$/.idea/.generators" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.rakeTasks" afterPath="$PROJECT_DIR$/.idea/.rakeTasks" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/toy_app.iml" afterPath="$PROJECT_DIR$/.idea/toy_app.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Rakefile" afterPath="$PROJECT_DIR$/Rakefile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/config/manifest.js" afterPath="$PROJECT_DIR$/app/assets/config/manifest.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/javascripts/application.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/application.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/javascripts/cable.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/cable.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/application.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/channels/application_cable/channel.rb" afterPath="$PROJECT_DIR$/app/channels/application_cable/channel.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/channels/application_cable/connection.rb" afterPath="$PROJECT_DIR$/app/channels/application_cable/connection.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/application_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/application_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/helpers/application_helper.rb" afterPath="$PROJECT_DIR$/app/helpers/application_helper.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/jobs/application_job.rb" afterPath="$PROJECT_DIR$/app/jobs/application_job.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/mailers/application_mailer.rb" afterPath="$PROJECT_DIR$/app/mailers/application_mailer.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/application_record.rb" afterPath="$PROJECT_DIR$/app/models/application_record.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/mailer.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/mailer.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/mailer.text.erb" afterPath="$PROJECT_DIR$/app/views/layouts/mailer.text.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.ru" afterPath="$PROJECT_DIR$/config.ru" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/application.rb" afterPath="$PROJECT_DIR$/config/application.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/boot.rb" afterPath="$PROJECT_DIR$/config/boot.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/cable.yml" afterPath="$PROJECT_DIR$/config/cable.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/database.yml" afterPath="$PROJECT_DIR$/config/database.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/environment.rb" afterPath="$PROJECT_DIR$/config/environment.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/environments/development.rb" afterPath="$PROJECT_DIR$/config/environments/development.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/environments/production.rb" afterPath="$PROJECT_DIR$/config/environments/production.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/environments/test.rb" afterPath="$PROJECT_DIR$/config/environments/test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/initializers/application_controller_renderer.rb" afterPath="$PROJECT_DIR$/config/initializers/application_controller_renderer.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/initializers/assets.rb" afterPath="$PROJECT_DIR$/config/initializers/assets.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/initializers/backtrace_silencers.rb" afterPath="$PROJECT_DIR$/config/initializers/backtrace_silencers.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/initializers/cookies_serializer.rb" afterPath="$PROJECT_DIR$/config/initializers/cookies_serializer.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/initializers/filter_parameter_logging.rb" afterPath="$PROJECT_DIR$/config/initializers/filter_parameter_logging.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/initializers/inflections.rb" afterPath="$PROJECT_DIR$/config/initializers/inflections.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/initializers/mime_types.rb" afterPath="$PROJECT_DIR$/config/initializers/mime_types.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/initializers/new_framework_defaults.rb" afterPath="$PROJECT_DIR$/config/initializers/new_framework_defaults.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/initializers/session_store.rb" afterPath="$PROJECT_DIR$/config/initializers/session_store.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/initializers/wrap_parameters.rb" afterPath="$PROJECT_DIR$/config/initializers/wrap_parameters.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/locales/en.yml" afterPath="$PROJECT_DIR$/config/locales/en.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/puma.rb" afterPath="$PROJECT_DIR$/config/puma.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/routes.rb" afterPath="$PROJECT_DIR$/config/routes.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/secrets.yml" afterPath="$PROJECT_DIR$/config/secrets.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/spring.rb" afterPath="$PROJECT_DIR$/config/spring.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/seeds.rb" afterPath="$PROJECT_DIR$/db/seeds.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/404.html" afterPath="$PROJECT_DIR$/public/404.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/422.html" afterPath="$PROJECT_DIR$/public/422.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/500.html" afterPath="$PROJECT_DIR$/public/500.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/robots.txt" afterPath="$PROJECT_DIR$/public/robots.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/test_helper.rb" afterPath="$PROJECT_DIR$/test/test_helper.rb" />
     </list>
     <ignored path="toy_app.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -524,7 +95,6 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -532,7 +102,7 @@
     <favorites_list name="toy_app" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Gemfile" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
@@ -553,11 +123,61 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="routes.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="routes.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/routes.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+            <state relative-caret-position="45">
+              <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rake" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bin/rake">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application_helper.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/helpers/application_helper.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="users_helper.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/helpers/users_helper.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_helper.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/test_helper.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -574,6 +194,7 @@
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/app/controllers/application_controller.rb" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -584,10 +205,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="931" />
-    <option name="y" value="27" />
-    <option name="width" value="989" />
-    <option name="height" value="994" />
+    <option name="x" value="733" />
+    <option name="y" value="13" />
+    <option name="width" value="1206" />
+    <option name="height" value="1008" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -615,8 +236,8 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="RailsProjectView" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -645,7 +266,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
+              <option name="myItemId" value="test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -687,6 +308,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RunManager" selected="Rails.Development: toy_app">
     <configuration default="true" type="RailsRunConfigurationType" factoryName="Rails">
@@ -737,104 +361,6 @@
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
       <method />
     </configuration>
-    <configuration default="false" name="test: toy_app" type="RakeRunConfigurationType" factoryName="Rake">
-      <module name="toy_app" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs>
-        <env name="RAILS_ENV" value="test" />
-      </envs>
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
-        <COVERAGE_PATTERN ENABLED="true">
-          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
-        </COVERAGE_PATTERN>
-      </EXTENSION>
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="test" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE=":test_unit " />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="spec: toy_app" type="RakeRunConfigurationType" factoryName="Rake">
-      <module name="toy_app" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
-        <COVERAGE_PATTERN ENABLED="true">
-          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
-        </COVERAGE_PATTERN>
-      </EXTENSION>
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="spec" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE=":rspec " />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Production: toy_app" type="RailsRunConfigurationType" factoryName="Rails">
-      <predefined_log_file id="RUBY_RAILS_SERVER" enabled="true" />
-      <module name="toy_app" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
-        <COVERAGE_PATTERN ENABLED="true">
-          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
-        </COVERAGE_PATTERN>
-      </EXTENSION>
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="0.0.0.0" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="production" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Development: toy_app" type="RailsRunConfigurationType" factoryName="Rails">
-      <predefined_log_file id="RUBY_RAILS_SERVER" enabled="true" />
-      <module name="toy_app" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
-        <COVERAGE_PATTERN ENABLED="true">
-          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
-        </COVERAGE_PATTERN>
-      </EXTENSION>
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="0.0.0.0" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="development" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
-      <method />
-    </configuration>
     <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Rake.test: toy_app" />
       <item index="1" class="java.lang.String" itemvalue="Rake.spec: toy_app" />
@@ -852,36 +378,46 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1469356704166</updated>
-      <workItem from="1469356705395" duration="847000" />
+      <workItem from="1469356705395" duration="2316000" />
+      <workItem from="1469462142175" duration="8000" />
+      <workItem from="1469523455339" duration="275000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="847000" />
+    <option name="totallyTimeSpent" value="2599000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="931" y="27" width="989" height="994" extended-state="0" />
-    <editor active="true" />
+    <frame x="733" y="13" width="1206" height="1008" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25502646" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20431894" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32690248" sideWeight="0.49667773" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32690248" sideWeight="0.50332224" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32475883" sideWeight="0.71345514" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32690248" sideWeight="0.49667773" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -909,8 +445,96 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/routes.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/rake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/helpers/application_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/helpers/users_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
